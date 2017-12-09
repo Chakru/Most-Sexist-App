@@ -22,4 +22,4 @@ accountable of inappropriate output.
  ```
  <b>How to use :</b>
  
- <img align="right" src="https://github.com/mr-skyaakash/Most-Sexist-App/blob/master/demo.png">
+  <img src="https://github.com/mr-skyaakash/Most-Sexist-App/blob/master/demo.png">
