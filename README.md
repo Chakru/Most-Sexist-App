@@ -14,8 +14,10 @@ accountable of inappropriate output.
 medical checkup ! </b> 
  
 Proceed at your own risk</pre>
+
+Note : For better accuracy, use a close-up facial shot.
  
- <b>Demo </b>
+ <b>Demo </b> 
  
  ```python
  python label_image.py path/to/sample-image
